@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Thymleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white">
-<img src="https://img.shields.io/badge/Ajax-E23744?style=flat">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
 
 <img src="https://img.shields.io/badge/Java-brown?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring__Boot3-6DB33F?style=flat&logo=springboot&logoColor=white">
 
@@ -23,8 +21,6 @@
 <img src="https://img.shields.io/badge/MyBatis-010101?style=flat">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat">
 
-<img src="https://img.shields.io/badge/Ubuntu20.04-E95420?style=flat&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white">
-<img src="https://img.shields.io/badge/Apache__Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black">
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 
 </div>
