@@ -1,22 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jun%20huijae&fontSize=90&animation=fadeIn)
 
-<div align=center>
+안녕하세요. <br>
+React와 Vue 기반 프로젝트를 처음부터 설계하고 구현해온 프론트엔드 개발자입니다.<br/>
+새로운 기술을 익히기 위해 개인 프로젝트를 지속적으로 진행하고, 실무에 적용하고 있습니다.<br/>
+개인의 기술 성장을 팀의 성과로 연결시키는 개발 문화를 지향합니다.<br/>
 
-<h2>📧이메일📧</h2>
+<h2>이메일</h2>
   hjhj7895598@gmail.com
-<h2>⚒기술 스택⚒</h2>
-  
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Thymleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white">
-
-<img src="https://img.shields.io/badge/Java-brown?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring__Boot3-6DB33F?style=flat&logo=springboot&logoColor=white">
-
-<img src="https://img.shields.io/badge/Maria__DB-003545?style=flat&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MyBatis-010101?style=flat">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat">
-
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junijaei)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<h2>기술 스택</h2>
+<h3>Front</h3>
+<p>React, Vue, Typescript, Next.js, Nuxt</p>
+<p>TailwindCSS, Sass</p>
+<p>axios, TanstackQuery, swr, useFetch, pinia, Orval</p>
+<p>vitest, msw, husky, ESLint, Prettier</p>
+<p>echarts, recharts, apexchart, three.js</p>
+<h3>DevOps</h3>
+<p>GitHub, GitLab</p>
+<p>GitHub Actions, GitLab CI/CD, Vercel</p>
+<p>Notion, Jira, Figma</p>
+<h3>Back</h3>
+<p>Java, Python, SpringBoot, MyBatis, kafka</p>
