@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jun%20huijae&fontSize=90&animation=fadeIn)
 
 안녕하세요. <br>
-React와 Vue 기반 프로젝트를 처음부터 설계하고 구현해온 프론트엔드 개발자입니다.<br/>
+React, Vue를 즐겨 사용하는 프론트엔드 개발자 전희재입니다.<br/>
 새로운 기술을 익히기 위해 개인 프로젝트를 지속적으로 진행하고, 실무에 적용하고 있습니다.<br/>
 개인의 기술 성장을 팀의 성과로 연결시키는 개발 문화를 지향합니다.<br/>
 
